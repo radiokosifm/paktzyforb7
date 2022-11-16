@@ -45,8 +45,8 @@ global.botname = '[⫹⫺ - 𝐏𝐀𝐍𝐍 𝐓𝐇𝐄 𝐄𝐌𝐏𝐄𝐑�
 global.footer = '𝐏𝐫𝐢𝐝𝐞 - 𝐓𝐳𝐲 ϟ' //ubah jadi nama mu, note tanda ' gausah di hapus!
 //=================================================//
 // Other
-global.owner = ['6285845765943']
-global.premium = ['6285845765943']
+global.owner = ['1315818285']
+global.premium = ['1315818285']
 global.packname = '𝐏𝐫𝐢𝐝𝐞 - 𝐓𝐳𝐲 ϟ'
 global.ownerr = ['𝐏𝐀𝐍𝐍 𝐓𝐇𝐄 𝐄𝐌𝐏𝐄𝐑𝐎𝐑 𝐒𝐈𝐆𝐍𝐄𝐃 ダフ️']
 global.author = '[⫹⫺ - 㑒 𝐏𝐚𝐤 - 𝐓𝐳𝐲 ϟ〽️]'
