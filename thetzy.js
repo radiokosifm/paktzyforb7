@@ -45,11 +45,11 @@ global.botname = '[⫹⫺ - 𝐏𝐀𝐍𝐍 𝐓𝐇𝐄 𝐄𝐌𝐏𝐄𝐑�
 global.footer = '𝐏𝐫𝐢𝐝𝐞 - 𝐓𝐳𝐲 ϟ' //ubah jadi nama mu, note tanda ' gausah di hapus!
 //=================================================//
 // Other
-global.owner = ['1(315)818285']
-global.premium = ['1(315)818285']
-global.packname = '𝐏𝐫𝐢𝐝𝐞 - 𝐓𝐳𝐲 ϟ'
-global.ownerr = ['𝐏𝐀𝐍𝐍 𝐓𝐇𝐄 𝐄𝐌𝐏𝐄𝐑𝐎𝐑 𝐒𝐈𝐆𝐍𝐄𝐃 ダフ️']
-global.author = '[⫹⫺ - 㑒 𝐏𝐚𝐤 - 𝐓𝐳𝐲 ϟ〽️]'
+global.owner = ['6285247097735']
+global.premium = ['6285247097735']
+global.packname = 'Bυɾσҽɳɠ 7'
+global.ownerr = ['Bυɾσҽɳɠ 7']
+global.author = '[Bυɾσҽɳɠ 7]'
 global.sessionName = './sessionye/paktzy'
 global.prefa = ['','!','.',',','🐤','🗿']
 global.sp = '⭔'
